@@ -5,7 +5,7 @@ function Mechanistic_Midge_Model
 %   field data.
 %
 %   It is assumed that all data files are in the same folder as this
-%   script.
+%   script. You must have the Statistics Toolbox to run the code.
 %
 %   This was programmed by Dr Steven White, CEH Wallingford (25/10/16).
 
